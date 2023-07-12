@@ -1,0 +1,16 @@
+{
+  "name": "joblacall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OA",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  }
+}
